@@ -1,2 +1,2 @@
 # calculator
-this my first project
+this my first project using html,css and java script
